@@ -1,0 +1,5 @@
+bazel-bin
+bazel-java-bazel-demo
+bazel-testlogs
+bazel-out
+.ijwb
